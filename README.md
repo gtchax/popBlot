@@ -1,6 +1,6 @@
 # POPBLOT
 
-> This is a Ruby on Rails % application that alllows users to create their own portfolios.
+> This is a Ruby on Rails 5 application that alllows users to create their own portfolios.
 
 ### Features
 
